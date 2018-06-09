@@ -3,10 +3,10 @@
   <channel>
     <title>Fromis_9 Fan Page</title>
     <description>Fromis_9 Fan Page.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Jun 2018 20:49:30 +0900</pubDate>
-    <lastBuildDate>Sat, 09 Jun 2018 20:49:30 +0900</lastBuildDate>
+    <link>http://fromis9.kr/</link>
+    <atom:link href="http://fromis9.kr/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 09 Jun 2018 23:13:46 +0900</pubDate>
+    <lastBuildDate>Sat, 09 Jun 2018 23:13:46 +0900</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -29,8 +29,8 @@
 
 </description>
         <pubDate>Wed, 19 Aug 2015 00:07:19 +0900</pubDate>
-        <link>http://localhost:4000/articles/2015-08/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2015-08/welcome-to-jekyll</guid>
+        <link>http://fromis9.kr/articles/2015-08/welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://fromis9.kr/articles/2015-08/welcome-to-jekyll</guid>
         
         
         <category>tutorial</category>
@@ -138,8 +138,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 16 Aug 2013 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/articles/2013-08/code-highlighting-post</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2013-08/code-highlighting-post</guid>
+        <link>http://fromis9.kr/articles/2013-08/code-highlighting-post</link>
+        <guid isPermaLink="true">http://fromis9.kr/articles/2013-08/code-highlighting-post</guid>
         
         
         <category>code</category>
@@ -157,8 +157,8 @@
 &lt;p&gt;Some &lt;a href=&quot;http://renyuanz.github.io&quot;&gt;link&lt;/a&gt; can also be shown.&lt;/p&gt;
 </description>
         <pubDate>Mon, 12 Aug 2013 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/articles/2013-08/sample-link-post</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2013-08/sample-link-post</guid>
+        <link>http://fromis9.kr/articles/2013-08/sample-link-post</link>
+        <guid isPermaLink="true">http://fromis9.kr/articles/2013-08/sample-link-post</guid>
         
         
         <category>link post</category>
@@ -217,8 +217,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 23 May 2013 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/articles/2013-05/readability-feature-post</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2013-05/readability-feature-post</guid>
+        <link>http://fromis9.kr/articles/2013-05/readability-feature-post</link>
+        <guid isPermaLink="true">http://fromis9.kr/articles/2013-05/readability-feature-post</guid>
         
         
         <category>paragraph</category>
@@ -271,8 +271,8 @@
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 </description>
         <pubDate>Tue, 22 May 2012 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/articles/2012-05/readability-post</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2012-05/readability-post</guid>
+        <link>http://fromis9.kr/articles/2012-05/readability-post</link>
+        <guid isPermaLink="true">http://fromis9.kr/articles/2012-05/readability-post</guid>
         
         
         <category>paragraph</category>
@@ -404,8 +404,8 @@
 &lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code class=&quot;highlighter-rouge&quot;&gt;{: .notice}&lt;/code&gt; to a paragraph.&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Mar 2011 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/articles/2011-03/sample-post</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2011-03/sample-post</guid>
+        <link>http://fromis9.kr/articles/2011-03/sample-post</link>
+        <guid isPermaLink="true">http://fromis9.kr/articles/2011-03/sample-post</guid>
         
         
         <category>hello world</category>
