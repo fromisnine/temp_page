@@ -1,3 +1,9 @@
+---
+layout: page
+title: 쿠킹라이브 / Fromis_9 - 두근두근(DKDK)
+
+---
+
 <h1><span data-i18n="skills.my_skills">About</span></h1>
 
 <div>
