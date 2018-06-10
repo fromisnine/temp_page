@@ -5,6 +5,8 @@ tags : video
 excerpt: "Cooking Live With Fromis_9 - DKDK"
 categories: [video]
 comments: true
+image:
+  feature: https://i.ytimg.com/vi/4_F5fCUeCyQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDZZkO-W1HAGOV_P6i_ktA3IT8N6A
 ---
 
 ### 프로미스나인 fromis_9 - 두근두근(DKDK) [쿠킹라이브]
