@@ -5,6 +5,9 @@ tags : video
 excerpt: "fromis_9 - DKDK Part Change"
 categories: [video]
 comments: true
+image:
+  feature:
+  https://i.ytimg.com/vi/gQVls_mempI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDV6l2dgv_WWF7lrg-qJmwzkcDhkg
 ---
 #### Post by : News-Ade Youtube
 ### 꺄르르르르륵ㅋㅋㅋㅋㅋ 멤버들 웃음 제일 크게 터지는 코너!!
