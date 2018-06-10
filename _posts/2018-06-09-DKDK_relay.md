@@ -5,6 +5,9 @@ tags : video
 excerpt: "[Relay Dance] fromis_9 - DKDK by M2"
 categories: [video]
 comments: true
+image:
+  feature: https://i.ytimg.com/vi/PEBhTREkd8g/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBtwAHitNKo5CZSC3moZuvpYCP91A
+  credit: Youtube
 ---
 
 ### [릴레이댄스] 프로미스나인(fromis_9) - 두근두근(DKDK)
