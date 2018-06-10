@@ -35,7 +35,7 @@ kramdown:
 owner:
   name: Fromis_9 Fan Page
   avatar: logo.jpg
-  job: "Student"
+  job: 
   bio: 
   email: imreplay@imreplay.xyz
   disqus-shortname: fromis9
@@ -48,11 +48,11 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: fromisnine #username
+  github: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
-  instagram: im_replay #username
+  instagram: #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
