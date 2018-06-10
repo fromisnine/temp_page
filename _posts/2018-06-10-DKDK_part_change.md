@@ -7,7 +7,7 @@ categories: [video]
 comments: true
 image:
   feature:
-  https://i.ytimg.com/vi/gQVls_mempI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDV6l2dgv_WWF7lrg-qJmwzkcDhkg
+  "https://i.ytimg.com/vi/gQVls_mempI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDV6l2dgv_WWF7lrg-qJmwzkcDhkg"
   credit: Youtube
   creditlink: 
 
