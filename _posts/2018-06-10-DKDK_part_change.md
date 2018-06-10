@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 프로미스나인의 심장을 두근거리게 만든 현장 / 파트바꾸기
+title: 파트바꾸기/ 프로미스나인의 심장을 두근거리게 만든 현장 
 tags : video
 excerpt: "fromis_9 - DKDK Part Change"
 categories: [video]
