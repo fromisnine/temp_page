@@ -2,7 +2,7 @@
 layout: post
 title: Fromis_9 Official-Photo
 tags : fromis_9 official photo
-excerpt: "official photo in <To. Day>"
+excerpt: "official photo in &lt;To. Day&gt;"
 categories: [photo]
 comments: true
 image:
