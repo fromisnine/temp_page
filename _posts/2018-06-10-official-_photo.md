@@ -2,7 +2,7 @@
 layout: post
 title: Fromis_9 Official-Photo
 tags : fromis_9 official photo
-excerpt: "fromis_9 official photo <To. Day>"
+excerpt: "official photo in <To. Day>"
 categories: [photo]
 comments: true
 image:
@@ -10,8 +10,6 @@ image:
   credit: Fromis_9 Official Page
   creditlink: http://fromisnine.com/photos/
 ---
-
-프로미스나인 Official Photo
 
 
 ![Main Image](http://media.fromisnine.com/wp-content/uploads/2018/05/25200607/fromis_9_Official-Photo.jpg)
