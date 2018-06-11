@@ -6,11 +6,11 @@ tags : 지원 새롬 insta
 categories: [photo]
 comments: true
 image:
-  feature: http://cfile291.uf.daum.net/image/99DC24405B1E703506756E
+  feature: https://fromis9.kr/img/jiwon.jpg
   credit: Fromis_9 Official Instagram
 ---
 
 ### 프로미스나인 공식 인스타그램 업데이트
 
-![지원](http://cfile291.uf.daum.net/image/99DC24405B1E703506756E)
-![새롬,지원](http://cfile243.uf.daum.net/image/99E5133E5B1E70351A873C)
+![지원](https://fromis9.kr/img/jiwon.jpg)
+![새롬,지원](https://fromis9.kr/img/jiwon_saerom.jpg)
