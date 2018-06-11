@@ -82,7 +82,7 @@
           <span>/</span>
         
       </li>
-            
+                
       <li class="nav-item">
         <a href="https://fromis9.kr/tags/">Tags</a>
         
@@ -130,6 +130,37 @@
   </ul>
 </div>
 
+  <div id="results">
+  <h1><!-- `key` listing for `value` --></h1>
+
+  <ul class="results">
+    <!-- results lists -->
+  </ul>
+</div>
+
+<!— Html Elements for Search -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="search...">
+<ul id="results-container"></ul>
+</div>
+
+<!-- Script pointing to jekyll-search.js -->
+<script src="/dest/jekyll-search.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+      SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search2.json',
+        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+        noResultsText: 'No results found',
+        limit: 10,
+        fuzzy: false,
+        exclude: ['Welcome']
+      })
+</script>
+
 </div>
 
       </div>
@@ -147,6 +178,14 @@
   <div class="tag-group">
     
     <h5 class="tag-group-title" id="video">video</h5>
+    
+    <article class="tag-item">
+      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/dkdk-jacket-making">프로미스나인 (fromis_9) - 두근두근(DKDK) JACKET Making</a>
+    </article>
+    
+    <article class="tag-item">
+      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/Teamwork-Test">프로미스9 숙소에 침입했다는 무시무시한 그것은? (팀워크테스트)</a>
+    </article>
     
     <article class="tag-item">
       <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/DKDK_part_change">파트바꾸기/ 프로미스나인의 심장을 두근거리게 만든 현장</a>
@@ -185,7 +224,21 @@
     <h5 class="tag-group-title" id="photo">photo</h5>
     
     <article class="tag-item">
+      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/insta-photo">To. Day, Instagram Photo (지원, 새롬)</a>
+    </article>
+    
+    <article class="tag-item">
       <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/official_photo">Fromis_9 Official-Photo</a>
+    </article>
+    
+  </div>
+
+  <div class="tag-group">
+    
+    <h5 class="tag-group-title" id="notice">notice</h5>
+    
+    <article class="tag-item">
+      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/2nd-MD">To. Day 약속회 OFFICIAL MD 안내</a>
     </article>
     
   </div>

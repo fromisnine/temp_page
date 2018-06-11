@@ -82,7 +82,7 @@
           <span>/</span>
         
       </li>
-            
+                
       <li class="nav-item">
         <a href="https://fromis9.kr/tags/">Tags</a>
         
@@ -130,6 +130,37 @@
   </ul>
 </div>
 
+  <div id="results">
+  <h1><!-- `key` listing for `value` --></h1>
+
+  <ul class="results">
+    <!-- results lists -->
+  </ul>
+</div>
+
+<!— Html Elements for Search -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="search...">
+<ul id="results-container"></ul>
+</div>
+
+<!-- Script pointing to jekyll-search.js -->
+<script src="/dest/jekyll-search.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+      SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search2.json',
+        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+        noResultsText: 'No results found',
+        limit: 10,
+        fuzzy: false,
+        exclude: ['Welcome']
+      })
+</script>
+
 </div>
 
       </div>
@@ -151,7 +182,7 @@
 <h2 id="schedule">Schedule</h2>
 <hr />
 
-<h4 id="06월-프로미스나인-스케줄">06월 프로미스나인 스케줄</h4>
+<h4 id="06월-프로미스나인-스케줄-ver-180611">06월 프로미스나인 스케줄 (Ver. 18.06.11)</h4>
 
 <ul>
   <li>06/01 : 나경’s DAY</li>

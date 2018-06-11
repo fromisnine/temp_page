@@ -82,7 +82,7 @@
           <span>/</span>
         
       </li>
-            
+                
       <li class="nav-item">
         <a href="https://fromis9.kr/tags/">Tags</a>
         
@@ -130,6 +130,37 @@
   </ul>
 </div>
 
+  <div id="results">
+  <h1><!-- `key` listing for `value` --></h1>
+
+  <ul class="results">
+    <!-- results lists -->
+  </ul>
+</div>
+
+<!— Html Elements for Search -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="search...">
+<ul id="results-container"></ul>
+</div>
+
+<!-- Script pointing to jekyll-search.js -->
+<script src="/dest/jekyll-search.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+      SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search2.json',
+        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+        noResultsText: 'No results found',
+        limit: 10,
+        fuzzy: false,
+        exclude: ['Welcome']
+      })
+</script>
+
 </div>
 
       </div>
@@ -145,21 +176,51 @@
       <h5>Tag cloud <i class="fa fa-cloud info-text-color"></i></h5>
 <ul class="tag-cloud">
 
-  <li style="font-size: 236%">
-    <a class="post-tag" href="#video">
-      video
-    </a>
-  </li>
-
-  <li style="font-size: 103%">
+  <li style="font-size: 157%">
     <a class="post-tag" href="#DKDK">
       DKDK
     </a>
   </li>
 
-  <li style="font-size: 103%">
-    <a class="post-tag" href="#photo">
-      photo
+  <li style="font-size: 82%">
+    <a class="post-tag" href="#직캠">
+      직캠
+    </a>
+  </li>
+
+  <li style="font-size: 82%">
+    <a class="post-tag" href="#MPD">
+      MPD
+    </a>
+  </li>
+
+  <li style="font-size: 95%">
+    <a class="post-tag" href="#News-Ade">
+      News-Ade
+    </a>
+  </li>
+
+  <li style="font-size: 82%">
+    <a class="post-tag" href="#making">
+      making
+    </a>
+  </li>
+
+  <li style="font-size: 82%">
+    <a class="post-tag" href="#지원">
+      지원
+    </a>
+  </li>
+
+  <li style="font-size: 82%">
+    <a class="post-tag" href="#새롬">
+      새롬
+    </a>
+  </li>
+
+  <li style="font-size: 82%">
+    <a class="post-tag" href="#insta">
+      insta
     </a>
   </li>
 
@@ -169,7 +230,15 @@
 
   <div class="tag-group">
     
-    <h5 class="tag-group-title" id="video">video</h5>
+    <h5 class="tag-group-title" id="DKDK">DKDK</h5>
+    
+    <article class="tag-item">
+      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/dkdk-jacket-making">프로미스나인 (fromis_9) - 두근두근(DKDK) JACKET Making</a>
+    </article>
+    
+    <article class="tag-item">
+      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/official_photo">Fromis_9 Official-Photo</a>
+    </article>
     
     <article class="tag-item">
       <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/DKDK_part_change">파트바꾸기/ 프로미스나인의 심장을 두근거리게 만든 현장</a>
@@ -180,11 +249,11 @@
     </article>
     
     <article class="tag-item">
-      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/DKDK_MPD">MPD직캠 / Fromis_9 - 두근두근(DKDK)</a>
+      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/DKDK_cooking_live">쿠킹라이브 / Fromis_9 - 두근두근(DKDK)</a>
     </article>
     
     <article class="tag-item">
-      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/DKDK_cooking_live">쿠킹라이브 / Fromis_9 - 두근두근(DKDK)</a>
+      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/DKDK_album">프로미스나인 To.Day - 앨범 소개</a>
     </article>
     
     <article class="tag-item">
@@ -195,20 +264,74 @@
 
   <div class="tag-group">
     
-    <h5 class="tag-group-title" id="DKDK">DKDK</h5>
+    <h5 class="tag-group-title" id="직캠">직캠</h5>
     
     <article class="tag-item">
-      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/DKDK_album">프로미스나인 To.Day - 앨범 소개</a>
+      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/DKDK_MPD">MPD직캠 / Fromis_9 - 두근두근(DKDK)</a>
     </article>
     
   </div>
 
   <div class="tag-group">
     
-    <h5 class="tag-group-title" id="photo">photo</h5>
+    <h5 class="tag-group-title" id="MPD">MPD</h5>
     
     <article class="tag-item">
-      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/official_photo">Fromis_9 Official-Photo</a>
+      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/DKDK_MPD">MPD직캠 / Fromis_9 - 두근두근(DKDK)</a>
+    </article>
+    
+  </div>
+
+  <div class="tag-group">
+    
+    <h5 class="tag-group-title" id="News-Ade">News-Ade</h5>
+    
+    <article class="tag-item">
+      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/Teamwork-Test">프로미스9 숙소에 침입했다는 무시무시한 그것은? (팀워크테스트)</a>
+    </article>
+    
+    <article class="tag-item">
+      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/DKDK_part_change">파트바꾸기/ 프로미스나인의 심장을 두근거리게 만든 현장</a>
+    </article>
+    
+  </div>
+
+  <div class="tag-group">
+    
+    <h5 class="tag-group-title" id="making">making</h5>
+    
+    <article class="tag-item">
+      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/dkdk-jacket-making">프로미스나인 (fromis_9) - 두근두근(DKDK) JACKET Making</a>
+    </article>
+    
+  </div>
+
+  <div class="tag-group">
+    
+    <h5 class="tag-group-title" id="지원">지원</h5>
+    
+    <article class="tag-item">
+      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/insta-photo">To. Day, Instagram Photo (지원, 새롬)</a>
+    </article>
+    
+  </div>
+
+  <div class="tag-group">
+    
+    <h5 class="tag-group-title" id="새롬">새롬</h5>
+    
+    <article class="tag-item">
+      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/insta-photo">To. Day, Instagram Photo (지원, 새롬)</a>
+    </article>
+    
+  </div>
+
+  <div class="tag-group">
+    
+    <h5 class="tag-group-title" id="insta">insta</h5>
+    
+    <article class="tag-item">
+      <a class="tag-item-title" href="https://fromis9.kr/articles/2018-06/insta-photo">To. Day, Instagram Photo (지원, 새롬)</a>
     </article>
     
   </div>
