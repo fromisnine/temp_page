@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![fromis_cafe](https://scontent-icn1-1.cdninstagram.com/vp/ccca186e46fa67b0ea1c496d75613a44/5BADCF1E/t51.2885-15/s640x640/sh0.08/e35/29402618_1824671504223049_4964527464513536000_n.jpg)
+
 #### 프로미스나인 팬페이지 입니다.
 
 #### Fromis_9 Fan page.
