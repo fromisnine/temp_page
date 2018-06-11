@@ -6,7 +6,7 @@ excerpt: "[Relay Dance] fromis_9 - DKDK by M2"
 categories: [video]
 comments: true
 image:
-  feature: https://i.ytimg.com/vi/PEBhTREkd8g/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBtwAHitNKo5CZSC3moZuvpYCP91A
+  feature: http://img.youtube.com/vi/PEBhTREkd8g/0.jpg
   credit: Youtube
 ---
 
