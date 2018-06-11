@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 프로미스나인 (fromis_9) - 두근두근(DKDK) JACKET Making
-tags : video
+tags : making DKDK
 excerpt: "fromis_9 TV Behind 두근두근(DKDK) JACKET Making"
 categories: [video]
 comments: true
