@@ -6,7 +6,7 @@ excerpt: "fromis_9 - DKDK Part Change"
 categories: [video]
 comments: true
 image:
-  feature: https://fromis9.kr/img/partchange.jpg
+  feature: http://img.youtube.com/vi/gQVls_mempI/0.jpg
   credit: Youtube
 
 ---
