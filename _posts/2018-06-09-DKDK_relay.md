@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 릴레이댄스/ Fromis_9 - 두근두근(DKDK)
-tags : video
+tags : DKDK
 excerpt: "[Relay Dance] fromis_9 - DKDK by M2"
 categories: [video]
 comments: true
