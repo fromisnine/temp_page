@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fromis_9 Official-Photo
-tags : photo
+tags : DKDK
 excerpt: "official photo in &lt;To. Day&gt;"
 categories: [photo]
 comments: true
