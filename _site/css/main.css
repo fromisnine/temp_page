@@ -344,6 +344,22 @@ input::-moz-focus-inner {
 input {
   line-height: normal; }
 
+.search__results {
+     display: block;
+    background: #fff;
+    list-style: none;
+    padding: 0px;
+    font-size: 14px;
+    transition: 0.2s ease;
+    position: absolute;
+    width: 550px;
+    -webkit-box-shadow: 0 8px 17px 0 rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.19);
+    box-shadow: 0 8px 17px 0 rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.19);
+    border-radius: 2px;
+    border: 0;
+    z-index: 999; top: 45px; right: 0px;
+    line-height: 22px;  
+}
 /**
  * It's recommended that you don't attempt to style these elements.
  * Firefox's implementation doesn't respect box-sizing, padding, or width.
