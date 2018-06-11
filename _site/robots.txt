@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fromis9.kr/sitemap.xml
