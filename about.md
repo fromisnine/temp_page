@@ -8,6 +8,7 @@ permalink: /about/
 
 #### Fromis_9 Fan page.
 
+===
 
 #### 06월 프로미스나인 스케줄
 
