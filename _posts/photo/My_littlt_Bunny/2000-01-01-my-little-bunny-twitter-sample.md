@@ -6,6 +6,7 @@ categories: [photo]
 comments: true
 
 ---
+# 샘플 
 
 ###  180610 한강 브이앱 하영
 
@@ -21,3 +22,7 @@ comments: true
 #### Photo by
 > [Orange Road twitter](https://twitter.com/OrangeRoad8)  
 로고크롭, 2차가공 등 모든것은 개인소장 목적으로만 허용합니다.
+
+<div id="mouse_no" oncontextmenu="return false" ondragstart="return false" onselectstart="return false">
+이곳에선 오른쪽 마우스 클릭 및 <br>드래그가 안되요!
+</div>
