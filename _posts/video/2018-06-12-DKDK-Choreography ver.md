@@ -10,7 +10,7 @@ image:
   credit: Youtube
 ---
 
-### 프로미스나인 fromis_9 - 두근두근(DKDK) [쿠킹라이브]
+### 프로미스나인 (fromis_9) - 두근두근(DKDK) Choreography ver.
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/NFJMwZQ5_zc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
