@@ -21,4 +21,4 @@ no_mouse: true
 
 #### Photo by
 > [Beautiful My Ocean](https://twitter.com/BMO_fromis)  
-로고크롭, 2차가공 등 모든것은 개인소장 목적으로만 허용합니다.
+로고크롭, 2차가공 금지
