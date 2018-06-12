@@ -21,4 +21,5 @@ image:
 ![지헌_3](https://post-phinf.pstatic.net/MjAxODA2MDdfMTUz/MDAxNTI4MzgxODkzNTQ3.qtk8RyqOcpbTlE6FiHYjsbV3FhjzVMZtR6FR8cPCLuQg.7BZF8R9y3s_Vs0lYTjdsQkYjVzEEpcuPdbBySmN9yVsg.JPEG/5.jpg?type=w1200)
 
 
-### Post from [Fromis_9 Naver Post](https://m.post.naver.com/viewer/postView.nhn?volumeNo=15975468&memberNo=40751978)
+#### Post from 
+> [Fromis_9 Naver Post](https://m.post.naver.com/viewer/postView.nhn?volumeNo=15975468&memberNo=40751978)
