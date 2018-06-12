@@ -16,8 +16,8 @@ comments: true
 
 #fromis_9 #프로미스나인 #송하영  
 
-![1](https://pbs.twimg.com/media/DfUyAibV4AA0OVL.jpg)
-![2](https://pbs.twimg.com/media/DfUyAibUYAACiRU.jpg)
+![1](https://pbs.twimg.com/media/DfUyAibV4AA0OVL.jpg:large)
+![2](https://pbs.twimg.com/media/DfUyAibUYAACiRU.jpg:large)
 
 #### Photo by
 > [My little Bunny twitter](https://twitter.com/MLBunny_929)  
