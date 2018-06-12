@@ -15,14 +15,10 @@ comments: true
 
 #fromis_9 #프로미스나인 #송하영  
 
-![1](https://pbs.twimg.com/media/DfUyAibV4AA0OVL.jpg)
-![2](https://pbs.twimg.com/media/DfUyAibUYAACiRU.jpg)
+![1](https://pbs.twimg.com/media/DfUyAibV4AA0OVL.jpg){:oncontextmenu="return false" ondragstart="return false" onselectstart="return false"}
+![2](https://pbs.twimg.com/media/DfUyAibUYAACiRU.jpg){:oncontextmenu="return false" ondragstart="return false" onselectstart="return false"}
 
 
 #### Photo by
 > [My little Bunny twitter](https://twitter.com/MLBunny_929)  
 로고크롭, 2차가공 등 모든것은 개인소장 목적으로만 허용합니다.
-
-<div id="mouse_no" oncontextmenu="return false" ondragstart="return false" onselectstart="return false">
-이곳에선 오른쪽 마우스 클릭 및 <br>드래그가 안되요!
-</div>
