@@ -61,7 +61,9 @@ layout: default
   </ul>
 </div><!-- end share-buttons -->
 
-
+{% if page.no_mouse == true %}
+{% include nomouse.html %}
+{% endif %}
 
 {% if site.owner.disqus-shortname and page.comments == true %}
 <div id="disqus_thread"></div>
