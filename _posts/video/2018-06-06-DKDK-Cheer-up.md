@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 프로미스나인 (fromis_9) - 두근두근(DKDK) 응원법
-tags : DKDK
+tags : DKDK 응원법
 categories: [video]
 comments: true
 
