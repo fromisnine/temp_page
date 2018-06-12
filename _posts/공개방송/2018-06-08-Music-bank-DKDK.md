@@ -4,9 +4,7 @@ title: 뮤직뱅크 Music Bank - 두근두근(DKDK) - fromis_9.20180608
 tags : DKDK
 categories: [Music-Bank]
 comments: true
-image:
-  feature: http://img.youtube.com/vi/tp2F_AnORQ4/0.jpg
-  credit: Youtube
+
 ---
 
 ### 뮤직뱅크 Music Bank - 두근두근(DKDK) - fromis_9.20180608

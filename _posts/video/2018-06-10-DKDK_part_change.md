@@ -2,12 +2,10 @@
 layout: post
 title: 파트바꾸기/ 프로미스나인의 심장을 두근거리게 만든 현장 
 tags : News-Ade DKDK
-excerpt: "fromis_9 - DKDK Part Change"
+
 categories: [video]
 comments: true
-image:
-  feature: http://img.youtube.com/vi/gQVls_mempI/0.jpg
-  credit: Youtube
+
 
 ---
 #### Post by : News-Ade Youtube

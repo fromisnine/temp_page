@@ -4,9 +4,7 @@ title: Comeback Stage | M COUNTDOWN 180607 EP.573
 tags : DKDK
 categories: [M-countdown]
 comments: true
-image:
-  feature: http://img.youtube.com/vi/Nj1PgrqD7Z4/0.jpg
-  credit: Youtube
+
 ---
 
 ### [fromis_9 - 22CENTURY GIRL] Comeback Stage | M COUNTDOWN 180607 EP.573

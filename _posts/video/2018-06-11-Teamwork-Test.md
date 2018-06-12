@@ -2,12 +2,10 @@
 layout: post
 title: 프로미스9 숙소에 침입했다는 무시무시한 그것은? (팀워크테스트)
 tags : News-Ade
-excerpt: "팀워크테스트"
+
 categories: [video]
 comments: true
-image:
-  feature: http://img.youtube.com/vi/UwbeUZgan7o/0.jpg
-  credit: Youtube
+
 ---
 
 ### 프로미스9 숙소에 침입했다는 무시무시한 그것은? [팀워크테스트]

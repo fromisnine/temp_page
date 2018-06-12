@@ -4,9 +4,6 @@ title: 뮤직뱅크 Music Bank - 22세기 소녀 - fromis_9 (22CENTURY GIRL - fr
 tags : DKDK
 categories: [Music-Bank]
 comments: true
-image:
-  feature: http://img.youtube.com/vi/YN-Gjxsa_DY/0.jpg
-  credit: Youtube
 ---
 
 ### 뮤직뱅크 Music Bank - 22세기 소녀 - fromis_9 (22CENTURY GIRL - fromis_9).20180608

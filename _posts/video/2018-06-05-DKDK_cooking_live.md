@@ -2,12 +2,9 @@
 layout: post
 title: 쿠킹라이브 / Fromis_9 - 두근두근(DKDK)
 tags : DKDK
-excerpt: "Cooking Live With Fromis_9 - DKDK"
 categories: [video]
 comments: true
-image:
-  feature: http://img.youtube.com/vi/4_F5fCUeCyQ/0.jpg
-  credit: Youtube
+
 ---
 
 ### 프로미스나인 fromis_9 - 두근두근(DKDK) [쿠킹라이브]
