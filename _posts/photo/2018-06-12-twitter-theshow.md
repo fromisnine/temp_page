@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 공식 트위터 업데이트 - 더 쇼
+title: 공식 트위터 업데이트 - 더 쇼 (2018.06.12)
 excerpt: "official twitter"
 tags : twitter
 categories: [photo]

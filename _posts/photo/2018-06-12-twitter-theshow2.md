@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 공식 트위터 업데이트 - 더 쇼 2
+title: 공식 트위터 업데이트 - 더 쇼 2(2018.06.12)
 tags : twitter
 categories: [photo]
 comments: true
