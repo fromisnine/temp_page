@@ -14,7 +14,7 @@ image:
 
 
 
-![지헌_1](https://post-phinf.pstatic.net/MjAxODA2MDdfMjQ4/MDAxNTI4MzgxODMwMTcy.zviCEyyrFtiP3iXy7_wvlzC9JpxmKQ-hXpVfYqNm9Dwg.IQTWqdntxXZFYcuQf7m5TpO_UQwKNe8lY9ASdfXtKCYg.JPEG/3.jpg?type=w1200g)
+![지헌_1](https://post-phinf.pstatic.net/MjAxODA2MDdfMjQ4/MDAxNTI4MzgxODMwMTcy.zviCEyyrFtiP3iXy7_wvlzC9JpxmKQ-hXpVfYqNm9Dwg.IQTWqdntxXZFYcuQf7m5TpO_UQwKNe8lY9ASdfXtKCYg.JPEG/3.jpg?type=w1200)
 
 ![지헌_2](https://post-phinf.pstatic.net/MjAxODA2MDdfMjcw/MDAxNTI4MzgxODg4NDYw.LA3BOl5dX08-vUd8-HKiHppF_ZGMUeeJqeZgHENW4Lgg.SMdT3_IYMbSCejJFO3G2saK2JQqcW144JicdU5Xjhqog.JPEG/4.jpg?type=w1200)
 
