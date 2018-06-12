@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 공식 트위터 업데이트 - 더 쇼
+title: 공식 트위터 업데이트 - 더 쇼 2
 tags : twitter
 categories: [photo]
 comments: true
