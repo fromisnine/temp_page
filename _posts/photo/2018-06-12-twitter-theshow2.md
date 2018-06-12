@@ -5,7 +5,7 @@ tags : twitter
 categories: [photo]
 comments: true
 image:
-  feature: https://fromis9.kr/img/twitter/theshow1.jpg
+  feature: https://pbs.twimg.com/media/Dffn4wrWkAAjEF4.jpg
   credit: Fromis_9 Official twitter
 ---
 
@@ -18,6 +18,4 @@ image:
 다 완벽히 소화한다는 것 ( ˘⌣˘ c)♡  
 
 > #같은_시간_속에 #영원히_함께해 #프로미스나인
-
-![1](https://pbs.twimg.com/media/Dffn4wrWkAAjEF4.jpg)
 
