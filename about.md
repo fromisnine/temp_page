@@ -23,6 +23,8 @@ permalink: /about/
 | 이나경 | 2000. 06. 01. | 서브보컬 |
 | 백지헌 | 2003. 04. 17. | 서브보컬 |
 
+> from [fromis_9 - 나무위키](https://namu.wiki/w/fromis_9#s-3)
+
 ---
 
 ## Schedule
