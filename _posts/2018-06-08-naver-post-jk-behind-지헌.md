@@ -11,6 +11,8 @@ image:
   creditlink: https://m.post.naver.com/viewer/postView.nhn?volumeNo=15975468&memberNo=40751978
 ---
 
+#### 프로미스나인 네이버 포스트 - 프롬이들의 자켓 촬영현장 비하인드 공개! (백지헌)
+
 
 
 
