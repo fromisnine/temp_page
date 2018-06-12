@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 프로미스나인 자켓촬영 Behind
+title: 프로미스나인 자켓촬영 Behind (서연)
 excerpt: "♥두근두근♥ 프롬이들의 자켓 촬영 현장 비하인드 공개!"
 tags : 서연
 categories: [photo]
