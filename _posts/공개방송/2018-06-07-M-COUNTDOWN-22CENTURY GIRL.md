@@ -9,7 +9,7 @@ image:
   credit: Youtube
 ---
 
-### [fromis_9 - 22CENTURY GIRL] Comeback Stage | M COUNTDOWN 180607 EP.573 
+### [fromis_9 - 22CENTURY GIRL] Comeback Stage | M COUNTDOWN 180607 EP.573
 
 ### - KPOP Chart Show M COUNTDOWN | EP.573
 
