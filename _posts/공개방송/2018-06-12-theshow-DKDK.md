@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 180612 프로미스나인 Fromis_9 - DkDk 두근두근 (Comeback Stage) @ 더쇼
-tags : DKDK
+tags : DKDK theshow
 categories: [video]
 comments: true
 
