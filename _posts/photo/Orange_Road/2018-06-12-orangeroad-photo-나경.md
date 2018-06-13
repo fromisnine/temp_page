@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Orange Road photo on twitter- 180612 미니팬미팅 나경
-tags : 나경 orangeroad
+tags : 나경 orangeroad twitter
 categories: [photo]
 no_mouse: true
 comments: true
