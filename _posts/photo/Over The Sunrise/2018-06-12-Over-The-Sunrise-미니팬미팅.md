@@ -18,5 +18,5 @@ no_mouse: true
 ![2](https://pbs.twimg.com/media/DfgJTq_UwAA80h2.jpg)
 
 #### Photo by
-> [ Over The Sunrise](https://twitter.com/fromis_RJS)  
+> [Over The Sunrise](https://twitter.com/fromis_RJS)  
 로고크롭, 2차가공 금지
