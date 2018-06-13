@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Orange Road photo on twitter- 180612 미니팬미팅 지원
-tags : 지원 orangeroad
+tags : 지원 orangeroad twitter
 categories: [photo]
 comments: true
 
