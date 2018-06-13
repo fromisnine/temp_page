@@ -2,7 +2,7 @@
 layout: post
 title: love in love
  photo on twitter- 180612 미니 팬미팅 새롬
-tags : 새롬 love-in-love
+tags : 새롬 love-in-love twitter
 
 categories: [photo]
 comments: true
