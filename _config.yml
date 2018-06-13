@@ -28,6 +28,7 @@ kramdown:
   enable_coderay: false
 
 paginate: 10
+paginate_path: "/test/page:num/"
 gems:
   - jekyll-paginate
 
