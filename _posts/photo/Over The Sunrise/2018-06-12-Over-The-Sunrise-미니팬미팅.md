@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Over The Sunrise photo on twitter- 180612 미니 팬미팅 지선
-tags : 지선 OverTheSunrise
+tags : 지선 OverTheSunrise twitter
 categories: [photo]
 comments: true
 no_mouse: true
