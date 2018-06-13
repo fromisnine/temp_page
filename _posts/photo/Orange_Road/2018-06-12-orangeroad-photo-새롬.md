@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Orange Road photo on twitter- 180612 미니팬미팅 새롬
-tags : 새롬 orangeroad
+tags : 새롬 orangeroad twitter
 categories: [photo]
 comments: true
 image:
